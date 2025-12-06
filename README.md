@@ -19,6 +19,13 @@ My mission is pretty simple and achieving it is one of the thnigs I look forward
 
 ✨ *“Cybersecurity isn’t just a career instead it’s a mindset. Every log tells a story, and I’m here to read between the lines.”* ✨
 
+---
+
+## 👉Current Projects
+- 🍯[Azure Cloud SOC Honeypot](https://github.com/S-preme/Soc-Azure-Honeypot) → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack.
+- ⚔️ **Tines - Elastic SIEM Lab** - Deployed and set up Elastic Security Information and Event Management (SIEM) for log ingestion and threat detection. Installed and integrated an Endpoint Detection and Response (EDR) agent for real-time security monitoring of  VM hosts.
+
+
 <!--
 **S-preme/S-preme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
