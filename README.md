@@ -11,7 +11,7 @@ My mission is pretty simple and achieving it is one of the thnigs I look forward
 
 ## 🧭 My Journey  
 - 📍 Started working around with Computers/Technology at the age of 7 years old gaining experience in troubleshooting and monitoring over the years through trial and tribulations.  
-- 📚 Earned the **CompTIA Security+** and **AZ-900** certifications to sharpen my cybersecurity and cloud skills.  
+- 📚 Earned the **CompTIA Security+** certification to sharpen my cybersecurity skills. Currently pursuing **CySa+** and **AZ-900**
 - 🛠️ Building homelabs featuring **SIEMs, IDS/IPS, malware detection & analysis, and cloud security tools**.  
 - 🎯 Goal: Transition into a **SOC Analyst / Cybersecurity Analyst role** and grow toward Cloud Security/Architechture later on.
 
