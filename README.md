@@ -23,7 +23,7 @@ My mission is pretty simple and achieving it is one of the thnigs I look forward
 
 ## 👉Current Projects
 - 🍯[Azure Cloud SOC Honeypot](https://github.com/S-preme/Soc-Azure-Honeypot) → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack.
-- 📚https://github.com/S-preme/Active-Directory-Home-SOC-Lab → Hands on AD security lab with domain setup, baseline GPO hardening, firewall rules, and event log analysis.
+- 📚 [Active Directory Home SOC Lab](https://github.com/S-preme/Active-Directory-Home-SOC-Lab) → Hands on AD security lab with domain setup, baseline GPO hardening, firewall rules, and event log analysis.
 - ⚔️ **Tines - Elastic SIEM Lab** → Deployed and set up Elastic Security Information and Event Management (SIEM) for log ingestion and threat detection. Installed and integrated an Endpoint Detection and Response (EDR) agent for real-time security monitoring of  VM hosts.
 
 
