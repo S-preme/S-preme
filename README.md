@@ -1,9 +1,9 @@
-# Hello there 👋, My name is Marion Mcvay
+# Hey Guys 👋, My name is Marion Mcvay
 
-🖥️ SOC Analyst in the Making 
+🖥️ Driven to be a SOC Analyst
 
 Welcome to my Github! I'm currently working Full-time as I build a foundation around Cybersecurity through labs, certifications, and hands-on projects.
-My mission is pretty simple and achieving it is one of the thnigs I look forward to the most!
+My goals are somewhat simple and making them happen is something I look forward to!
 
 👉 **Defend systems. Detect threats. Stay ahead of adversaries.** 
 
@@ -17,7 +17,7 @@ My mission is pretty simple and achieving it is one of the thnigs I look forward
 
 ---
 
-✨ *“Cybersecurity isn’t just a career instead it’s a mindset. Every log tells a story, and I’m here to read between the lines.”* ✨
+✨ *“It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it”* ✨
 
 ---
 
