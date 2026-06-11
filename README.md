@@ -11,7 +11,7 @@ My goals are somewhat simple and making them happen is something I look forward 
 
 ## 🧭 My Journey  
 - 📍 Started working around with Computers/Technology at the age of 7 years old gaining experience in troubleshooting and monitoring over the years through trial and tribulations.  
-- 📚 Earned the **CompTIA Security+**, **CompTIA Network+**, **CompTIA A+**, and **AZ-900** certifications to sharpen my cybersecurity skills. Currently pursuing **CySa+**
+- 📚 Earned the **CompTIA CySa+**, **ITIL v4 Foundation**, **CompTIA Security+**, **CompTIA Network+**, **CompTIA A+**, and **AZ-900** certifications to sharpen my cybersecurity skills. Currently pursuing **CompTIA Pentest+**
 - 🛠️ Building homelabs featuring **SIEMs, IDS/IPS, malware detection & analysis, and cloud security tools**.  
 - 🎯 Goal: Transition into a **SOC Analyst / Cybersecurity Analyst role** and grow toward Cloud Security/Architechture later on.
 
