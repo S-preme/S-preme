@@ -1,9 +1,8 @@
-# Hey Guys 👋, My name is Marion Mcvay
+# Hi 👋, My name is Marion Mcvay
 
-🖥️ Driven to be a SOC Analyst
+🖥️ Aspiring SOC Analyst | Blue Team | Based in Ohio, open to hybrid.
 
-Welcome to my Github! I'm currently working Full-time as I build a foundation around Cybersecurity through labs, certifications, and hands-on projects.
-My goals are somewhat simple and making them happen is something I look forward to!
+I build home labs, investigate the attacks I run against them, and write up what I find like a real SOC ticket.
 
 👉 **Defend systems. Detect threats. Stay ahead of adversaries.** 
 
