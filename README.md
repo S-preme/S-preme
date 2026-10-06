@@ -6,7 +6,7 @@ I build home labs to practice investigating security events, testing detections,
 
 ## About Me
 
-My interest in technology started at age seven. Since then, I’ve learned through troubleshooting, experimenting, and figuring out why things work—or why they don’t.
+My interest in technology started at age seven. Since then, I’ve learned through troubleshooting, experimenting, and figuring out why things work or why they don’t.
 
 Today, I focus on Windows security, SIEM monitoring, alert investigation, and cloud security. My long-term goal is to grow into cloud security and architecture.
 
